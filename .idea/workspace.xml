@@ -170,6 +170,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="TestReadNumber.testNumberEqual100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CG-ReadNumberToString" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codegym" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.TestReadNumber" />
+      <option name="METHOD_NAME" value="testNumberEqual100" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="TestReadNumber.testNumberEqual101" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CG-ReadNumberToString" />
       <extension name="coverage">
@@ -259,10 +282,12 @@
       <item itemvalue="JUnit.TestReadNumber" />
       <item itemvalue="JUnit.TestReadNumber.testNumberEqual5" />
       <item itemvalue="JUnit.TestReadNumber.testNumberEqual101" />
+      <item itemvalue="JUnit.TestReadNumber.testNumberEqual100" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestReadNumber" />
+        <item itemvalue="JUnit.TestReadNumber.testNumberEqual100" />
         <item itemvalue="JUnit.TestReadNumber.testNumberEqual101" />
         <item itemvalue="JUnit.TestReadNumber.testNumberEqual5" />
         <item itemvalue="Application.ReadNumber" />

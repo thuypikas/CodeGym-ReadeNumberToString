@@ -76,8 +76,8 @@ public class TestReadNumber {
 
     @Test
     public void testNumberEqual100() {
-        String actual = readNumber.convert(100);
-        String expected = "One Hundred";
+        String actual = readNumber.convert(200);
+        String expected = "Two Hundred";
         Assert.assertEquals(actual,expected);
     }
 

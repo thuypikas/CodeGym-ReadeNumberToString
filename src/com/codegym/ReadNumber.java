@@ -33,7 +33,7 @@ public class ReadNumber {
         if (n >= 20 && n < 100) {
             return tens[n / 10] + ((n % 10 != 0) ? " " : "") + units[n % 10];
         }
-        if (n == 100) {
+        if (n % 100 == 0 && n < 1000) {
             return units[n / 100] + " Hundred";
         }
         if (n > 100 && n < 1000) {
