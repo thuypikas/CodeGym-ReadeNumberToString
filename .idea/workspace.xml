@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06382259-afbb-408b-85bc-3f4bbeba803e" name="Default" comment="" />
+    <list default="true" id="06382259-afbb-408b-85bc-3f4bbeba803e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/TestReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/TestReadNumber.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReadNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codegym/ReadNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="20" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestReadNumber.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestReadNumber.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codegym/TestReadNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="163">
+              <caret line="181" column="5" lean-forward="true" selection-start-line="181" selection-start-column="5" selection-end-line="181" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#251#252#0" expanded="true" />
@@ -52,6 +55,9 @@
       <find>Zẻo</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -62,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codegym/TestReadNumber.java" />
         <option value="$PROJECT_DIR$/src/com/codegym/ReadNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/codegym/TestReadNumber.java" />
       </list>
     </option>
   </component>
@@ -81,6 +87,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -304,32 +311,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550495821539</updated>
-      <workItem from="1550495825604" duration="2381000" />
+      <workItem from="1550495825604" duration="3861000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestReadNumber - 2019.02.18 at 20h 48m 03s.xml">
-      <configuration name="TestReadNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReadNumber - 2019.02.18 at 20h 49m 14s.xml">
-      <configuration name="TestReadNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReadNumber - 2019.02.18 at 20h 49m 25s.xml">
-      <configuration name="TestReadNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReadNumber - 2019.02.18 at 20h 49m 32s.xml">
-      <configuration name="TestReadNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReadNumber - 2019.02.18 at 20h 50m 02s.xml">
-      <configuration name="TestReadNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReadNumber - 2019.02.18 at 20h 51m 52s.xml">
-      <configuration name="TestReadNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReadNumber_testNumberEqual101 - 2019.02.18 at 20h 53m 30s.xml">
-      <configuration name="TestReadNumber.testNumberEqual101" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestReadNumber_testNumberEqual101 - 2019.02.18 at 20h 54m 53s.xml">
       <configuration name="TestReadNumber.testNumberEqual101" configurationId="JUnit" />
     </history-entry>
@@ -339,9 +325,30 @@
     <history-entry file="TestReadNumber - 2019.02.18 at 20h 56m 01s.xml">
       <configuration name="TestReadNumber" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestReadNumber - 2019.02.18 at 20h 56m 52s.xml">
+      <configuration name="TestReadNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReadNumber - 2019.02.18 at 20h 58m 52s.xml">
+      <configuration name="TestReadNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReadNumber_testNumberEqual100 - 2019.02.18 at 20h 59m 04s.xml">
+      <configuration name="TestReadNumber.testNumberEqual100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReadNumber - 2019.02.18 at 20h 59m 42s.xml">
+      <configuration name="TestReadNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReadNumber - 2019.02.18 at 21h 02m 53s.xml">
+      <configuration name="TestReadNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReadNumber - 2019.02.18 at 21h 20m 28s.xml">
+      <configuration name="TestReadNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReadNumber - 2019.02.18 at 21h 23m 42s.xml">
+      <configuration name="TestReadNumber" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2381000" />
+    <option name="totallyTimeSpent" value="3861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -356,20 +363,20 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32968536" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32968536" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32968536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -389,24 +396,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codegym/TestReadNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codegym/ReadNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="323">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="20" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegym/ReadNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/codegym/TestReadNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="163">
+          <caret line="181" column="5" lean-forward="true" selection-start-line="181" selection-start-column="5" selection-end-line="181" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
           </folding>
         </state>
       </provider>

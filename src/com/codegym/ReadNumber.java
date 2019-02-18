@@ -5,12 +5,12 @@ import java.util.Scanner;
 
 public class ReadNumber {
 
-    public static final String[] units = {"", "One", "Two", "Three", "Four",
+    public static String[] units = {"", "One", "Two", "Three", "Four",
             "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve",
             "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen",
             "Eighteen", "Nineteen"};
 
-    public static final String[] tens = {
+    public static String[] tens = {
             "",        // 0
             "",        // 1
             "Twenty",    // 2
@@ -23,7 +23,7 @@ public class ReadNumber {
             "Ninety"    // 9
     };
 
-    public static String convert(final int n) {
+    public static String convert(int n) {
         if (n == 0) {
             return "Zero";
         }
@@ -37,7 +37,7 @@ public class ReadNumber {
             return units[n / 100] + " Hundred";
         }
         if (n > 100 && n < 1000) {
-            return units[n / 100] + " Hundred" + ((n % 100 != 0) ? " " : "") + convert(n % 100);
+            return units[n / 100] + " Hundred And" + ((n % 100 != 0) ? " " : "") + convert(n % 100);
         }
         return "Please input number from 0 to 999";
     }
